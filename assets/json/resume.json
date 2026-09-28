@@ -1,221 +1,311 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sarah Dury",
+    "label": "Plenoptic Cameras & Image-Based Rendering",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sarah.dury@ulb.be",
+    "phone": "",
+    "url": "https://lisa.ulb.be",
+    "summary": "FNRS Chargée de Recherche at LISA, Université libre de Bruxelles. Research on plenoptic camera systems, depth image-based rendering, and free-viewpoint navigation. Lead developer of the open-source Reference View Synthesis (RVS) software, adopted as the MPEG-I view synthesis reference tool; active contributor to MPEG Immersive Video standardization since 2017.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Av. F.D. Roosevelt 50, CP 165/56",
+      "postalCode": "1050",
+      "city": "Bruxelles",
+      "countryCode": "BE",
+      "region": ""
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "Sarah Dury",
+        "url": "https://scholar.google.be/citations?user=FqPM5OQAAAAJ"
+      },
+      {
+        "network": "GitLab",
+        "username": "mpeg-dense-light-field",
+        "url": "https://gitlab.com/mpeg-dense-light-field"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "LISA, Université libre de Bruxelles",
+      "position": "FNRS Chargée de Recherche",
+      "location": "Bruxelles, Belgium",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "summary": "Leading research on plenoptic 2.0 camera systems: multi-camera calibration, depth estimation, free-navigation rendering, and micro-lens design.",
+      "highlights": [
+        "Supervising 3 PhD students and 2 Master thesis students on plenoptic rendering and light-field systems",
+        "Extending RVS and neural methods (NeRF, 3D Gaussian Splatting) to focused plenoptic cameras",
+        "Research stays at Nagoya University (3 months, 2024-2025) and Universidad Politécnica de Madrid (3 months, 2024)"
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "LISA, Université libre de Bruxelles",
+      "position": "Doctoral Researcher (FNRS Fellowship)",
+      "location": "Bruxelles, Belgium",
+      "startDate": "2017-01-01",
+      "endDate": "2023-01-01",
+      "summary": "Developed the open-source Reference View Synthesis (RVS) software and its GPU acceleration, adopted as the official MPEG-I view synthesis tool.",
+      "highlights": [
+        "Extended RVS to General Linear Camera models using Geometric Algebra",
+        "Created high-quality holographic stereograms from sparse RGBD inputs",
+        "Developed image-based rendering methods for non-Lambertian (refracting, diffracting) objects with open-source datasets",
+        "Designed a pattern-free calibration method for plenoptic 2.0 cameras",
+        "Active contributor to MPEG-I standardization (LVC, MIV, DLF subgroups), 40+ submitted documents"
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
+      "name": "Iconem",
+      "position": "Computer Vision Engineer (Internship)",
+      "location": "Paris, France",
+      "startDate": "2016-01-01",
+      "endDate": "2016-06-01",
+      "summary": "Semi-automatic registration of archive images in 3D environments for cultural heritage digitization.",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
+      "name": "Sanofi K.K.",
+      "position": "Finance Systems Support (Internship)",
+      "location": "Tokyo, Japan",
+      "startDate": "2015-01-01",
+      "endDate": "2015-04-01",
+      "summary": "Finance systems support and controlling.",
       "highlights": []
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
+      "name": "French Air Force",
+      "position": "Software Developer (Internship)",
+      "location": "France",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Software development for pilot flight preparation systems.",
       "highlights": []
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
+      "institution": "Université Libre de Bruxelles (ULB)",
+      "location": "Bruxelles, Belgium",
+      "url": "https://www.ulb.be/",
+      "area": "Graphics and Image Processing",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
+      "startDate": "2017-01-01",
+      "endDate": "2023-01-01",
       "score": "",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Supervised by Prof. Gauthier Lafruit and Prof. Mehrdad Teratani",
+        "Research on depth image-based rendering, holography, non-Lambertian rendering, and plenoptic 2.0 camera calibration"
+      ]
+    },
+    {
+      "institution": "Trinity College Dublin",
+      "location": "Dublin, Ireland",
+      "url": "https://tcd.ie/",
+      "area": "Computer Science",
+      "studyType": "MSc (Distinction)",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01",
+      "score": "Distinction",
+      "courses": ["Interactive Entertainment Technologies"],
+      "highlights": ["Master's thesis: 3D Reconstruction of Reflective Surfaces"]
+    },
+    {
+      "institution": "École Polytechnique",
+      "location": "Paris, France",
+      "url": "https://www.polytechnique.edu/",
+      "area": "Mathematics & Computer Science",
+      "studyType": "MSc Engineering",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01",
+      "score": "GPA 3.69",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "Lycée Sainte Geneviève",
+      "location": "Paris, France",
+      "url": "",
+      "area": "Mathematics, Physics, Computer Science",
+      "studyType": "MPSI-MP* Preparatory Classes",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "Très Bien",
+      "courses": [],
+      "highlights": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Lead developer, RVS (MPEG-I view synthesis reference tool)",
+      "date": "2018-01-01",
+      "awarder": "MPEG Immersive Video",
+      "summary": "Open-source reference software officially adopted for the MPEG-I standardization of immersive video."
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
+      "title": "Contributor, MPEG-I Immersive Video Standardization",
+      "date": "2017-01-01",
+      "awarder": "ISO/IEC JTC1/SC29/WG11",
+      "summary": "Active in the LVC, MIV, and DLF subgroups with more than 40 submitted MPEG documents."
+    },
+    {
+      "title": "Curator, 10+ public multi-view and plenoptic datasets",
+      "date": "2021-01-01",
+      "awarder": "Zenodo",
+      "summary": "Publicly available datasets for multiview, plenoptic, and non-Lambertian scene acquisition."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Structure-from-motion in micro-image domain for uncalibrated plenoptic 2.0 cameras",
+      "organization": "International Journal of Computer Vision (IJCV)",
+      "startDate": "2026-01-01",
+      "url": "",
+      "summary": "Dury, S., Bonatto, D., Sancho, J., Juarez, E., Teratani, M., Fachada, S."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Micro-Image Domain View Synthesizer for Free Navigation with Focused Plenoptic Cameras",
+      "organization": "IEEE Transactions on Multimedia (TMM)",
+      "startDate": "2025-01-01",
+      "url": "",
+      "summary": "Fachada, S., Bonatto, D., Lafruit, G., Teratani, M."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Synchronization and Calibration of Video Sequences Acquired Using Multiple Plenoptic 2.0 Cameras",
+      "organization": "MultiMedia Modeling (MMM)",
+      "startDate": "2025-01-01",
+      "url": "",
+      "summary": "Fachada, S., Bonatto, D., Sancho, J., Juarez, E., Lafruit, G., Teratani, M."
+    },
+    {
+      "name": "Pattern and Subaperture-free Calibration of Plenoptic 2.0 Cameras",
+      "organization": "European Workshop on Visual Information Processing (EUVIP)",
+      "startDate": "2024-01-01",
+      "url": "",
+      "summary": "Fachada, S., Bonatto, D., Lafruit, G., Teratani, M."
+    },
+    {
+      "name": "Real-Time Depth Video Based Rendering for 6-DoF HMD Navigation and Light Field Displays",
+      "organization": "IEEE Access",
+      "startDate": "2021-01-01",
+      "url": "",
+      "summary": "Bonatto, D., Fachada, S., Rogge, S., Munteanu, A., Lafruit, G."
+    },
+    {
+      "name": "High-quality holographic stereogram generation using four RGBD images",
+      "organization": "OSA Applied Optics",
+      "startDate": "2021-01-01",
+      "url": "",
+      "summary": "Fachada, S., Bonatto, D., Lafruit, G."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Programming",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": ["C++", "Python", "CUDA", "JavaScript", "Functional programming"]
+    },
+    {
+      "name": "Graphics & GPU",
+      "level": "Expert",
+      "icon": "fa-solid fa-microchip",
+      "keywords": ["OpenGL", "Real-time rendering", "GPU-accelerated view synthesis (CUDA)"]
+    },
+    {
+      "name": "3D Imaging",
+      "level": "Expert",
+      "icon": "fa-solid fa-cube",
+      "keywords": ["Depth image-based rendering (DIBR)", "Holographic stereograms", "View synthesis"]
+    },
+    {
+      "name": "Plenoptic Systems",
+      "level": "Expert",
+      "icon": "fa-solid fa-camera",
+      "keywords": ["Lenslet camera calibration", "Plenoptic 2.0", "RVS / RLC / RPVC toolchains"]
+    },
+    {
+      "name": "Computer Vision",
+      "level": "Expert",
+      "icon": "fa-solid fa-eye",
+      "keywords": ["3D reconstruction", "Reflective surface estimation", "Non-Lambertian rendering"]
+    },
+    {
+      "name": "Neural Methods",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["NeRF", "3D Gaussian Splatting", "Adaptation to plenoptic cameras"]
+    },
+    {
+      "name": "Software",
+      "level": "Expert",
+      "icon": "fa-solid fa-gear",
+      "keywords": ["Open-source development", "Git", "Linux", "Scientific computing workflows"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "French",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (TOEFL iBT 92)",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational",
+      "icon": ""
+    },
+    {
+      "language": "German & Japanese",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Research",
+      "icon": "fa-solid fa-flask",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Plenoptic and light-field camera systems",
+        "Depth image-based rendering (DIBR)",
+        "Non-Lambertian object acquisition",
+        "Holographic stereogram generation",
+        "Geometric algebra for General Linear Camera models",
+        "MPEG Immersive Video standardization",
+        "Neural rendering for plenoptic cameras"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    },
-    {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "name": "Reference View Synthesis (RVS)",
+      "summary": "Official MPEG-I view synthesis reference software, extended to plenoptic cameras.",
+      "highlights": ["Open-source", "MPEG-I reference tool"],
       "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "endDate": ""
+    },
+    {
+      "name": "RLC — Reference Lenslet Content Convertor",
+      "summary": "Conversion of plenoptic 2.0 lenslet images to multiview.",
+      "highlights": ["Open-source"],
+      "startDate": "2021-01-01",
+      "endDate": ""
+    },
+    {
+      "name": "RPVC — Reference Plenoptic View Calibration",
+      "summary": "Pattern-free calibration tool for multi-plenoptic camera systems.",
+      "highlights": ["Open-source"],
+      "startDate": "2021-01-01",
+      "endDate": ""
     }
   ]
 }
