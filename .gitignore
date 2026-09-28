@@ -11,6 +11,8 @@ _site
 assets/pdf/
 # Local CV source archive (content already reflected in resume.json)
 CV_ACA_INDU_SD_2025_01.zip
+# Local publishing/ops notes — not site content, keep out of the repo
+REMOTE.md
 .work/
 assets/libs/
 assets/rendercv/rendercv_output/*.typ
