@@ -20,7 +20,7 @@ keywords: view synthesis, plenoptic imaging, virtual reality, computer graphics,
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📷 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks.
-url: https://safernan.github.io # the base hostname & protocol for your site
+url: https://sdury.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -218,6 +218,7 @@ collections:
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
+future: true # include future-dated posts/entries; GitHub Pages rebuilds on push, so without this a 2026-dated item silently disappears
 kramdown:
   input: GFM
   syntax_highlighter_opts:
