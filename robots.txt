@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lisa-vr.github.io/sdury/sitemap.xml
+Sitemap: https://www.sarahdury.com/sdury/sitemap.xml
