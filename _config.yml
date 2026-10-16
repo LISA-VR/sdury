@@ -20,7 +20,7 @@ keywords: view synthesis, plenoptic imaging, virtual reality, computer graphics,
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📷 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks.
-url: https://lisa-vr.github.io # the base hostname & protocol for your site (org)
+url: https://www.sarahdury.com # the base hostname & protocol for your site (custom domain; falls back to lisa-vr.github.io/sdury until DNS propagates)
 baseurl: /sdury # this repo serves at lisa-vr.github.io/sdury (org project site)
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
